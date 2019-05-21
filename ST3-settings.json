@@ -1,0 +1,15 @@
+{
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+    "default_encoding": "UTF-8",
+    "default_line_ending": "unix",
+    "fallback_encoding": "UTF-8",
+    "font_face": "微软雅黑",
+    "font_size": 11,
+    "tab_completion": false,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+}
